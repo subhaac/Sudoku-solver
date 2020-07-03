@@ -21,7 +21,7 @@ Django==2.2
 django-allauth==0.42.0
 docutils==0.16
 entrypoints==0.3
-httplib2==0.14.0
+httplib2==0.18.0
 hyperlink==19.0.0
 idna==2.8
 imagesize==1.2.0
