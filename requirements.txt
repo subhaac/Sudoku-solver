@@ -17,11 +17,11 @@ dbus-python==1.2.16
 defusedxml==0.6.0
 distro==1.4.0
 distro-info===0.23ubuntu1
-Django==2.2
+Django==2.2.13
 django-allauth==0.42.0
 docutils==0.16
 entrypoints==0.3
-httplib2==0.14.0
+httplib2==0.18.0
 hyperlink==19.0.0
 idna==2.8
 imagesize==1.2.0
@@ -74,7 +74,7 @@ Sphinx==1.8.5
 sqlparse==0.2.4
 ssh-import-id==5.10
 systemd-python==234
-Twisted==18.9.0
+Twisted==20.3.0
 ubuntu-advantage-tools==20.3
 ufw==0.36
 unattended-upgrades==0.1
